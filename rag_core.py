@@ -2,7 +2,7 @@
 rag_core.py
 Prototype of a Retrieval-Augmented Generation (RAG) system for scientific PDFs.
 Author: Nazareno Campioni
-"""
+""" 
 
 import os
 import json
